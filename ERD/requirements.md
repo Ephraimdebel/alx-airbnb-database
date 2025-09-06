@@ -1,4 +1,5 @@
 # Airbnb Database – ERD & Requirements
+<img width="1182" height="1002" alt="airbnb_ER_Diagram drawio" src="https://github.com/user-attachments/assets/ef3a578e-6f68-4ea0-9d38-e114dfceb4fd" />
 
 ## Project overview
 A relational database model for an Airbnb-like system: users, properties, bookings, payments, reviews, and messaging.
